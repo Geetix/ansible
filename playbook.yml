@@ -1,0 +1,32 @@
+---
+- hosts: localhost
+  vars:
+    homebrew_installed_packages:
+      - git
+      - wget
+      - node
+      - ssh-copy-id
+    
+    homebrew_taps:
+      - homebrew/core
+      - caskroom/cask
+      - homebrew/php
+    
+    homebrew_cask_appdir: /Applications
+    homebrew_cask_apps:
+      - firefox
+      - google-chrome
+      - visual-studio-code
+      - dropbox
+      - nextcloud
+      - slack
+      - spotify
+      - istat-menus
+      - iterm2
+      - 1password
+      - spectacle
+      - whatsapp
+
+  roles:
+    - role: geerlingguy.homebrew
+...
