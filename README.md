@@ -12,3 +12,5 @@
 - iterm2
 - 1password
 - spectacle
+- whatsapp
+- beardedspice
