@@ -13,3 +13,5 @@
 - 1password
 - spectacle
 - whatsapp
+
+Run `ansible-playbook playbook.yml -i hosts -K`

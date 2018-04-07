@@ -14,7 +14,6 @@
       - homebrew/dupes
       - homebrew/versions
       - homebrew/homebrew-php
-      - homebrew/apache
     
     homebrew_cask_appdir: /Applications
     homebrew_cask_apps:
