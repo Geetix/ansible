@@ -13,4 +13,3 @@
 - 1password
 - spectacle
 - whatsapp
-- beardedspice

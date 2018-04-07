@@ -30,7 +30,6 @@
       - 1password
       - spectacle
       - whatsapp
-      - beardedspice
 
   roles:
     - role: geerlingguy.homebrew
