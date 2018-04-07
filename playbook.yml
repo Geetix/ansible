@@ -3,9 +3,6 @@
   vars:
     homebrew_installed_packages:
       - git
-      - wget
-      - node
-      - ssh-copy-id
     
     homebrew_taps:
       - homebrew/core
