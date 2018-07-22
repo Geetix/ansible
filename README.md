@@ -1,17 +1,23 @@
 # My Ansible configuration
 
 ## Apps installed with brew cask
-- firefox
-- google-chrome
-- visual-studio-code
+- 1password
+- adobe-acrobat-reader
+- cleanmymac
 - dropbox
-- nextcloud
-- slack
-- spotify
+- firefox
+- flux
+- google-chrome
 - istat-menus
 - iterm2
-- 1password
+- nextcloud
+- skype
+- slack
 - spectacle
+- spotify
+- virtualbox
+- visual-studio-code
+- vlc
 - whatsapp
 
 ## Run 
