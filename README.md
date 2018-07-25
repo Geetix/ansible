@@ -16,11 +16,11 @@
 - spectacle
 - spotify
 - virtualbox
-- visual-studio-code
+- atom
 - vlc
 - whatsapp
 
-## Run 
+## Run
 
 1. Ensure Apple's command line tools are installed (`xcode-select --install` to launch the installer).
 2. [Install Ansible](http://docs.ansible.com/intro_installation.html).

@@ -3,7 +3,7 @@
   vars:
     homebrew_installed_packages:
       - git
-    
+
     homebrew_taps:
       - homebrew/core
       - caskroom/cask
@@ -11,7 +11,7 @@
       - homebrew/dupes
       - homebrew/versions
       - homebrew/homebrew-php
-    
+
     homebrew_cask_appdir: /Applications
     homebrew_cask_apps:
       - 1password
@@ -29,7 +29,7 @@
       - spectacle
       - spotify
       - virtualbox
-      - visual-studio-code
+      - atom
       - vlc
       - whatsapp
 
