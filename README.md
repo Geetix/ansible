@@ -17,6 +17,7 @@
 - spotify
 - virtualbox
 - atom
+- visual-studio-code
 - vlc
 - whatsapp
 
