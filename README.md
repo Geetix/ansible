@@ -3,7 +3,6 @@
 ## Apps installed with brew cask
 - 1password
 - adobe-acrobat-reader
-- cleanmymac
 - dropbox
 - firefox
 - flux
@@ -15,8 +14,6 @@
 - slack
 - spectacle
 - spotify
-- virtualbox
-- atom
 - visual-studio-code
 - vlc
 - whatsapp
