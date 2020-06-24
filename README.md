@@ -3,20 +3,21 @@
 ## Apps installed with brew cask
 - 1password
 - adobe-acrobat-reader
-- dropbox
 - firefox
-- flux
+- firefox-developer-edition
 - google-chrome
 - istat-menus
 - iterm2
 - nextcloud
-- skype
 - slack
 - spectacle
 - spotify
 - visual-studio-code
-- vlc
+- goland
 - whatsapp
+- discord
+- joplin
+- zoomus
 
 ## Run
 
