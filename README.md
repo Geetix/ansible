@@ -1,6 +1,8 @@
-# My Ansible configuration
+# My MacOS clean install with Ansible
 
-## Apps installed with brew cask
+For the moment, only my apps are installed.
+
+## Apps installed with `brew cask`
 - 1password
 - adobe-acrobat-reader
 - firefox
