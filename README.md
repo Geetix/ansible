@@ -1,4 +1,6 @@
-# My MacOS clean install with Ansible
+# My MacOS clean install
+
+## With Ansible
 
 For the moment, only my apps are installed.
 
