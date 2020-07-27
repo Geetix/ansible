@@ -1,29 +1,7 @@
 # My MacOS clean install
 
-`brew cask install \
-1password \
-adobe-acrobat-reader \
-firefox \
-firefox-developer-edition \
-google-chrome \
-istat-menus \
-iterm2 \
-nextcloud \
-slack \
-spectacle \
-spotify \
-visual-studio-code \
-goland \
-whatsapp \
-discord \
-joplin \
-zoomus`
+## Apps installed with `brew cask`
 
-## With Ansible
-
-For the moment, only my apps are installed.
-
-### Apps installed with `brew cask`
 - 1password
 - adobe-acrobat-reader
 - firefox
@@ -41,6 +19,12 @@ For the moment, only my apps are installed.
 - discord
 - joplin
 - zoomus
+
+## Run
+
+`./install`
+
+## With Ansible
 
 ### Run
 
