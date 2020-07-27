@@ -1,6 +1,23 @@
 # My MacOS clean install
 
-`brew cask install 1password adobe-acrobat-reader firefox firefox-developer-edition google-chrome istat-menus iterm2 nextcloud slack spectacle spotify visual-studio-code goland whatsapp discord joplin zoomus`
+`brew cask install \
+1password \
+adobe-acrobat-reader \
+firefox \
+firefox-developer-edition \
+google-chrome \
+istat-menus \
+iterm2 \
+nextcloud \
+slack \
+spectacle \
+spotify \
+visual-studio-code \
+goland \
+whatsapp \
+discord \
+joplin \
+zoomus`
 
 ## With Ansible
 
