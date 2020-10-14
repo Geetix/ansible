@@ -21,4 +21,6 @@ brew cask install \
   whatsapp \
   discord \
   joplin \
-  zoomus
+  zoomus \
+  sensiblesidebuttons
+

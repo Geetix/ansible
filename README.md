@@ -19,6 +19,7 @@
 - discord
 - joplin
 - zoomus
+- sensiblesidebuttons
 
 ## Run
 

@@ -31,6 +31,7 @@
       - discord
       - joplin
       - zoomus
+      - sensiblesidebuttons
 
   roles:
     - role: geerlingguy.homebrew
